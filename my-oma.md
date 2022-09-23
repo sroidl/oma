@@ -1,3 +1,6 @@
+This is my personal [OMA](https://oma.app) Journal
+---
+
 # bash: prepend line
 Usage of command grouping (not efficient on large files!)
 ```bash
